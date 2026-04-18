@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -r \"087898555117\\\\|nomor.*order\\\\|admin.*order\" 'C:\\\\Users\\\\WINDOWS 11\\\\Videos\\\\chatbot' --include=*.js --include=*.json --include=*.md)"
+    ]
+  }
+}
